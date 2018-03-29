@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">CardViewDemo</string>
+
+    <string-array name="person_name">
+        <item>"Spectra"</item>
+        <item>"Creed"</item>
+        <item>"Inside Out"</item>
+        <item>"Ant Man"</item>
+        <item>"Legend"</item>
+        <item>"Spotlight"</item>
+        <item>"Carol"</item>
+        <item>"Brooklyn"</item>
+        <item>"Goosebumps"</item>
+
+    </string-array>
+
+    <string-array name="person_email">
+        <item>"Sammendes@abc.com"</item>
+        <item>"Ryancoogler@xyz.com"</item>
+        <item>"Petedocter@pqr.com"</item>
+        <item>"Peytonreed@abc.com"</item>
+        <item>"Brianhelgeland@pqr.com"</item>
+        <item>"TommcCarthy@rst.com"</item>
+        <item>"Toddhaynes@xyz.com"</item>
+        <item>"Johncrowley@pqr.com"</item>
+        <item>"Robletterman@abc.com"</item>
+
+    </string-array>
+
+    <string-array name="person_number">
+        <item>"08337665919"</item>
+        <item>"08337665914"</item>
+        <item>"08337665915"</item>
+        <item>"08337665913"</item>
+        <item>"08337665917"</item>
+        <item>"08337665948"</item>
+        <item>"08337625919"</item>
+        <item>"08337665712"</item>
+        <item>"08877665919"</item>
+
+    </string-array>
+
+
+</resources>
